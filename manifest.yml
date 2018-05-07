@@ -1,6 +1,6 @@
 ---
 applications:
-- name: cf-nodejs
+- name: cf-nodejs-123321-hi-yo
   memory: 512M
   instances: 1
   random-route: true

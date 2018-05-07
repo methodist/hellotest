@@ -1,5 +1,8 @@
-# Node.js Sample App
+# My First Hello deploy test
 
-```cf push```
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/methodist/hellotest)
 
-https://docs.cloudfoundry.org/buildpacks/node/node-tips.html
+## Getting Started
+
+まずは頑張ろう!
+
